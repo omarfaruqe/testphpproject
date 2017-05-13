@@ -1,3 +1,4 @@
 void main(){
-retun 0;
+	printf("Hello World!");
+	retun 0;
 }
